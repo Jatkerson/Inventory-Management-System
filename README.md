@@ -56,7 +56,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Jatkerson/kersongames.git
+   git clone https://github.com/Jatkerson/Inventory-Management-System.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
